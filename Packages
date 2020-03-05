@@ -1,0 +1,16 @@
+Package: com.bassievalk.feeltheaudio
+Version: 0.0.1-5+debug
+Architecture: iphoneos-arm
+Maintainer: BasValk
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.bassievalk.feeltheaudio_0.0.1-5+debug_iphoneos-arm.deb
+Size: 3040
+MD5sum: 6f03193f3485e299ce7443afafc1ffd5
+SHA1: 06682dca53e69a5c3c87f5d9a0a53a001b279c70
+SHA256: 0d4d502df50900702af3dbff101df195f8749aa2305517714f5857787fee0b25
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: BasValk
+Name: FeelTheAudio
+
